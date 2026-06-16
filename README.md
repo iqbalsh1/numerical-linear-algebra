@@ -40,8 +40,6 @@ error, and solution residual.
 | G | LU (no pivot) | 3.65 × 10²⁷ | 4.01 × 10¹⁰ | 5.63 × 10⁻¹ |
 | G | PLU (pivoting) | 1.91 | 1.85 | 4.00 × 10⁻¹⁷ |
 
-![Stability Summary](assets/01_stability_summary.png)
-
 ### Key findings
 
 - LU without pivoting fails catastrophically on Matrix G - a growth factor
