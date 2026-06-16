@@ -102,7 +102,7 @@ the iteration count significantly for diagonally dominant matrices.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/numerical-linear-algebra.git
+git clone https://github.com/iqbalsh1/numerical-linear-algebra.git
 cd numerical-linear-algebra
 
 # Install dependencies
